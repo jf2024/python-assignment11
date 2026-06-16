@@ -1,0 +1,17 @@
+task4
+
+- With static visualizations, I think those are for more finalized versions or trying to tell
+a specific story with the data without being swayed by other factors or analysis. With interactive 
+visuals on the other hand, the user or myself can explore the data more and come up with a variety 
+of stories and patterns. 
+
+- Dashboards are especially helpful for real-time data exploration because they bring 
+multiple views of the data into one place and let me interact with them quickly. 
+Instead of rerunning code, I can adjust filters, date ranges, or categories on the fly and 
+instantly see how the visuals change. That's helpful for monitoring live metrics or since I don’t 
+have to build a new chart every time someone asks “what if we just look at X?”
+
+- Interactive tools like Plotly can help with communication in professional settings since even non-technical indiviudals
+can hover and look around the graph/visual on their own time. It also helps bridge the gap between technical and 
+non-technical folks, because they don’t have to read raw tables or code, the only thing they need to do is just 
+click around and understand the story in the data more intuitively.
